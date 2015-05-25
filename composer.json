@@ -1,0 +1,17 @@
+{
+    "name": "root/helloworld",
+    "authors": [
+        {
+            "name": "vishal gupta",
+            "email": "vishal.gupta@sourcefuse.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+"autoload": {
+        "psr-0": {
+            "VishalWorld": "src/"
+        }
+    }
+}
