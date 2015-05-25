@@ -1,5 +1,8 @@
 {
-    "name": "root/helloworld",
+    "name": "vishal/helloworld",
+    "type": "library",
+    "description": "AWS SDK for PHP - Use Amazon Web Services in your PHP project",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "vishal gupta",
